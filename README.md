@@ -1,4 +1,4 @@
-# Supporting analyses: Emergent productivity regimes of river networks
+# Supporting information for: Emergent productivity regimes of river networks
 R script to apply characteristic, stream-reach-scale productivity regimes (from Savoy et al. 2019: https://doi.org/10.1002/lno.11154) to simulated river networks and reproduce the figures in Koenig et al. In Review, Emergent productivity regimes of river networks. 
 
 Optimal channel networks (OCNs) were used to explore emergent network-scale productivity regimes. OCN details can be found in the manuscript text. Please direct questions to Lauren Koenig (lauren.koenig@uconn.edu).
