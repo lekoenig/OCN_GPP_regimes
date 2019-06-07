@@ -1,0 +1,3 @@
+% ID node, X, Y, ID downstream node, length, drainage area, ID of the reach the pixel belongs to, direct drainage area of the pixel, direct drainage area of the reach the pixel belongs to
+% all units in pixel
+  

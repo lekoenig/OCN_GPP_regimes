@@ -1,0 +1,8 @@
+1b66b47dc1d652ecd65c3e9bad62c8f0    data/resourcemap.xml
+e5b3143d1229c2a2c8abe0f98c6c0ca7    data/resourcemetadata.xml
+fb8c36d0108fdd9c2f780a0da2d6092e    data/contents/avg_gpp.csv
+5c733c0222770ed8c2b04efecbf7ddf7    data/contents/avg_gpp_filled.csv
+dd1893b8f6f56e753f3284d69b713ad9    data/contents/Metadata_LO_letters.pdf
+ca4489933ba37140ca27ddd0e57032ae    data/contents/normalized.csv
+7bbe50cc76317c8577a41cd4703bc48e    data/contents/readme.md
+f03797f98d020490c43b9e2665f45a8e    data/contents/site_basic.csv
